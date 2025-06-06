@@ -1,0 +1,76 @@
+.reg {
+    text-align: center;
+    font-size: large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.fom {
+    font-size: small;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    justify-content: center;
+}
+.t1 {
+    line-height: 0.7;
+    display: inline;
+    padding: 6px;
+}
+
+.re {
+    background-color: black;
+    color: white;
+    border-radius: 42px;
+    font-size: 10px;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 7px 62px;
+    text-decoration: none;
+    /* margin-left: 2%; */
+    /* margin-top: 30%; */
+}
+.re:hover {
+    background-color: rgb(43, 151, 43);
+}
+.reaction {
+    position: relative;
+    top: 1px;
+}
+
+#result {
+   margin-top: 20px;
+   text-align: center;
+   color: green;
+}
+
+#errorms {
+    color: red;
+    margin-bottom: 15px;
+}
+/* -------------------------------------------------------------- */
+                        /* SUPPORT */
+/* -------------------------------------------------------------- */
+
+.sup {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: large;
+    text-align: center;
+}
+.conmail {
+    font-size: small;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.co {
+    background-color: black;
+    border-radius: 42px;
+    font-weight: bold;
+    font-size: 10px;
+    color: white;
+    cursor: pointer;
+    padding: 7px 15px;
+    text-decoration: none;
+}
+.co:hover {
+    background-color: rgb(216, 155, 42);
+}
+.coaction {
+    position: relative;
+    top: 1px;
+}

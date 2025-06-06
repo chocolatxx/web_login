@@ -1,0 +1,59 @@
+.log {
+    /* border: 2px solid #e6b531; */
+    text-align-last: center;
+    font-size: large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.mal {
+    margin-top: 1%;
+}
+.con {
+    background-color:#030303;
+	border-radius:42px; 
+    /* ความโค้งของปุ่ม */
+	/* border:1px solid #ffffff; */
+	display:inline-block;
+	cursor:pointer;
+    /* เปลี่ยนเป็นมือชี้ */
+	color:#ffffff;
+	font-family:Arial;
+	font-size:10px;
+	font-weight:bold;
+	padding:7px 15px;
+	text-decoration:none;
+    /* ไม่มีเส้นใต้ */
+    /* margin-left: 57%; */
+
+}
+.con:hover {
+	/* background-color:#2cac2e; */
+    background-color:#e6b531;
+}
+.conactive {
+	position:relative;
+	top:1px;
+}
+
+.reg {
+    background-color: #030303;
+    border-radius: 42px;
+    /* border: #ffffff; */
+    display:inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    padding: 7px 17px;
+    text-decoration: none;
+    margin-top: 2%;
+    /* margin-left: 59%; */
+    margin-left: 10.5%;
+}
+.reg:hover {
+    background-color: rgb(250, 131, 131);
+}
+.regaction {
+    position: relative;
+    top: 1px;
+}
